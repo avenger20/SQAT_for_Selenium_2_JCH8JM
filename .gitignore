@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+build/
+target/
+out/
+bin/
+
+*.iml
+*.log
+
+src/test/resources/config.properties
